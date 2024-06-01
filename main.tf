@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "tesRG" {
     name = "RG0002"
-    location = "EastUS2"
+    location = "Westus"
   
 }
 resource "azurerm_resource_group" "tesRG1" {
@@ -8,3 +8,4 @@ resource "azurerm_resource_group" "tesRG1" {
     location = "EastUS2"
   
 }
+
