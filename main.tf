@@ -3,3 +3,8 @@ resource "azurerm_resource_group" "tesRG" {
     location = "EastUS2"
   
 }
+resource "azurerm_resource_group" "tesRG1" {
+    name = "RG0003"
+    location = "EastUS2"
+  
+}
