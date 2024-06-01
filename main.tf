@@ -4,7 +4,7 @@ resource "azurerm_resource_group" "tesRG" {
   
 }
 resource "azurerm_resource_group" "tesRG1" {
-    name = "RG0003"
-    location = "EastUS2"
+    name = "chacha"
+    location = "westeurope"
   
 }
